@@ -46,7 +46,7 @@ if __name__ == "__main__":
     while count != 0:
         if (autorepoter.report(report_data)
                 & autorepoter.upload_code()
-                & autorepoter.cross_campus(cross_campus_data):
+                & autorepoter.cross_campus(cross_campus_data)):
             print("ENJOY YOUR FREEDOM! ")
             break
         print("Retry...")
