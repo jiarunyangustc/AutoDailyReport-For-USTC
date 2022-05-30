@@ -2,7 +2,7 @@ import argparse
 from Report import Report
 
 report_data = [
-    ("juzhudi", "中校区"),  # 居住地
+    ("juzhudi", "西校区"),  # 居住地
     ("dorm_building", "z2"),  # 宿舍楼
     ("dorm", "414"),  # 宿舍号
     ("body_condition", "1"),  # 身体状况 1为正常
